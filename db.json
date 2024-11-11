@@ -1,0 +1,67 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Bali",
+      "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "country": "Indonesia",
+      "description": "Beautiful beaches and tropical landscapes"
+    },
+    {
+      "id": 2,
+      "name": "Santorini",
+      "image": "https://images.pexels.com/photos/1010640/pexels-photo-1010640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "country": "Greece",
+      "description": "Stunning sunsets and white-washed buildings"
+    },
+    {
+      "id": 3,
+      "name": "Kyoto",
+      "image": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "country": "Japan",
+      "description": "Historic temples and serene gardens"
+    },
+    {
+      "id": 4,
+      "name": "Paris",
+      "country": "France",
+      "description": "The city of lights and the Eiffel Tower"
+    },
+    {
+      "id": 5,
+      "name": "Maui",
+      "country": "USA",
+      "description": "Scenic drives and beautiful beaches"
+    },
+    {
+      "id": 6,
+      "name": "Queenstown",
+      "country": "New Zealand",
+      "description": "Adventure capital with bungee jumping and skiing"
+    },
+    {
+      "id": 7,
+      "name": "Cape Town",
+      "country": "South Africa",
+      "description": "Table Mountain and diverse landscapes"
+    },
+    {
+      "id": 8,
+      "name": "Rome",
+      "country": "Italy",
+      "description": "Ancient history and the Colosseum"
+    },
+    {
+      "id": 9,
+      "name": "Banff",
+      "country": "Canada",
+      "description": "Stunning mountain scenery and lakes"
+    },
+    {
+      "id": 10,
+      "name": "Istanbul",
+      "country": "Turkey",
+      "description": "Where East meets West and rich cultural heritage"
+    }
+  ]
+}
