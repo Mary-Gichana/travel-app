@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 
 function DestinationCard({ name, image, description }) {
+  const [visited, setVisited] = useState([]);
+
   return (
     <li className="card">
       <img src={image} alt={name} />
