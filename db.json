@@ -44,24 +44,6 @@
       "name": "Cape Town",
       "country": "South Africa",
       "description": "Table Mountain and diverse landscapes"
-    },
-    {
-      "id": 8,
-      "name": "Rome",
-      "country": "Italy",
-      "description": "Ancient history and the Colosseum"
-    },
-    {
-      "id": 9,
-      "name": "Banff",
-      "country": "Canada",
-      "description": "Stunning mountain scenery and lakes"
-    },
-    {
-      "id": 10,
-      "name": "Istanbul",
-      "country": "Turkey",
-      "description": "Where East meets West and rich cultural heritage"
     }
   ]
 }
